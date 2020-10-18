@@ -54,7 +54,7 @@ class App extends Component {
           </div>
           <div className="row">
             <ClearButton handleClear={() => this.setState({ input: "" })}>
-              AC1
+              AC
             </ClearButton>
           </div>
         </div>
